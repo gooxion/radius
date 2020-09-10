@@ -3,8 +3,8 @@ package mikrotik
 import (
 	"testing"
 
-	"layeh.com/radius"
-	"layeh.com/radius/rfc2865"
+	"github.com/gooxion/radius"
+	"github.com/gooxion/radius/rfc2865"
 )
 
 func TestVendorGenerated(t *testing.T) {

@@ -6,7 +6,7 @@ import (
 	"errors"
 	"strconv"
 
-	"layeh.com/radius"
+	"github.com/gooxion/radius"
 )
 
 const (

@@ -5,9 +5,9 @@ package rfc2867
 import (
 	"strconv"
 
-	"layeh.com/radius"
+	"github.com/gooxion/radius"
 
-	. "layeh.com/radius/rfc2866"
+	. "github.com/gooxion/radius/rfc2866"
 )
 
 const (

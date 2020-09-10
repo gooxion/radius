@@ -8,8 +8,8 @@ import (
 	"net"
 	"strconv"
 
-	"layeh.com/radius"
-	"layeh.com/radius/rfc2865"
+	"github.com/gooxion/radius"
+	"github.com/gooxion/radius/rfc2865"
 )
 
 const (

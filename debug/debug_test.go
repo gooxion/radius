@@ -7,12 +7,12 @@ import (
 	"testing"
 	"time"
 
-	"layeh.com/radius"
-	"layeh.com/radius/debug"
-	. "layeh.com/radius/rfc2865"
-	. "layeh.com/radius/rfc2866"
-	. "layeh.com/radius/rfc2869"
-	. "layeh.com/radius/rfc3162"
+	"github.com/gooxion/radius"
+	"github.com/gooxion/radius/debug"
+	. "github.com/gooxion/radius/rfc2865"
+	. "github.com/gooxion/radius/rfc2866"
+	. "github.com/gooxion/radius/rfc2869"
+	. "github.com/gooxion/radius/rfc3162"
 )
 
 var secret = []byte(`1234567`)
