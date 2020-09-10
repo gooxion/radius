@@ -1,4 +1,4 @@
-module layeh.com/radius
+module github.com/gooxion/radius
 
 go 1.12
 
